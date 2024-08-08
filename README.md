@@ -1,4 +1,4 @@
-# EmplyeesSalaries-SIC
+# EmployeesSalaries-SIC
 
 # Salary and Job Analysis Project
 
